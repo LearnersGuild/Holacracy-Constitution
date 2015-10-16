@@ -457,6 +457,22 @@ A Process Breakdown of one Circle may not be considered a Process Breakdown of i
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
+
+### 3.6 Localized Governance Policy
+
+Each circle shall delegate its governance authority to the role of @Governor.
+
+The @Governor of each circle shall have exclusive authority of passing governance in their circle.
+
+#### 3.6.1 Governor Role
+
+**Purpose:**  This circle's structure evolved through governance in order to optimally express its purpose 
+**Domain:** This circle’s governance
+**Accountabilities:**
+  * Meeting with circle members in order to process their governance tensions
+  * Acting as Secretary when enacting governance outside of a meeting
+  * Creating and passing governance proposals for this circle
+
 ## Article IV: Operational Process
 
 ### 4.1 Duties of Circle Members
